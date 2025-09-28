@@ -1,0 +1,2 @@
+C:/Users/ayush/OneDrive/Desktop/finflow/android/app/.cxx/Debug/5n30t1a6/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ayush/OneDrive/Desktop/finflow/android/app/.cxx/Debug/5n30t1a6/arm64-v8a/CMakeFiles/rebuild_cache.dir
