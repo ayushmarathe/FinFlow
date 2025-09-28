@@ -14,23 +14,43 @@ It helps users manage their daily and monthly expenses efficiently, now with **e
 ---
 
 ## 🚀 Features
-- **Track Expenses:** Add, edit, and delete daily expenses.  
-- **Custom Date Range:** View statistics for any custom period.  
-- **Monthly Budget Setup:** Budget set during signup, tracked throughout the month.  
-- **Email Authentication:** Users can sign up and log in securely with their email.  
+### Expense Management
+- Add, edit, and delete daily expenses.  
+- Track expenses easily with a clean interface.
+
+### Statistics
+- View statistics for any **custom date range**.  
+- Set monthly budgets and track progress.
+
+### Authentication
+- **Email login/signup** for secure access.  
 
 ---
 
 ## 📱 Screenshots
-*(Add screenshots of the app here)*  
+*(Add screenshots of the app here for better visualization)*  
 
 ---
 
 ## ▶️ How to Run
-1. Clone the repo:
-```bash
+
+### 1. Clone the repository
 git clone https://github.com/yourusername/FinFlow.git
 
-2. Navigate the project folder
+shell
+Copy code
+
+### 2. Navigate into the project folder
 cd FinFlow
 
+shell
+Copy code
+
+### 3. Install dependencies
+flutter pub get
+
+shell
+Copy code
+
+### 4. Run the app
+flutter run
