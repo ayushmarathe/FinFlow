@@ -52,5 +52,11 @@ flutter pub get
 shell
 Copy code
 
-### 4. Run the app
+### 4. Setup Firebase
+1. Create your own Firebase project: [https://console.firebase.google.com/](https://console.firebase.google.com/)  
+2. Add an **Android app** and download `google-services.json` → place in `android/app/`  
+3. Add an **iOS app** and download `GoogleService-Info.plist` → place in `ios/Runner/`  
+4. Enable **Email/Password authentication** in Firebase Console
+
+### 5. Run
 flutter run
