@@ -28,10 +28,5 @@ It helps users manage their daily and monthly expenses efficiently, now with **e
 
 ## ▶️ How to Run
 1. Clone the repo:
-   ```bash
-    git clone https://github.com/yourusername/FinFlow.git
-2.cd FinFlow
-3.flutter pub get 
-4.flutter run
 ```bash
 git clone https://github.com/yourusername/FinFlow.git
