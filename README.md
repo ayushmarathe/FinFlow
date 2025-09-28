@@ -1,16 +1,37 @@
-# finflow
+# FinFlow 💰
 
-A new Flutter project.
+**FinFlow** is a simple and intuitive **expense tracker app** built with **Flutter & Firebase**.  
+It helps users manage their daily and monthly expenses efficiently, now with **email authentication** for secure access.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Flutter** – Frontend & UI  
+- **Dart** – Programming language  
+- **Firebase / Firestore** – Backend & Local Data Storage  
+- **Firebase Authentication** – Email login & secure access  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
+- **Track Expenses:** Add, edit, and delete daily expenses.  
+- **Custom Date Range:** View statistics for any custom period.  
+- **Monthly Budget Setup:** Budget set during signup, tracked throughout the month.  
+- **Email Authentication:** Users can sign up and log in securely with their email.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Screenshots
+*(Add screenshots of the app here)*  
+
+---
+
+## ▶️ How to Run
+1. Clone the repo:
+   ```bash
+    git clone https://github.com/yourusername/FinFlow.git
+2.cd FinFlow
+3.flutter pub get 
+4.flutter run
+```bash
+git clone https://github.com/yourusername/FinFlow.git
